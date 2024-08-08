@@ -1,6 +1,6 @@
 [package]
 name = "rusty_plantuml_encoder"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 description = "A package for encoding and compressing text for plantuml diagram"
 license = "MIT"
