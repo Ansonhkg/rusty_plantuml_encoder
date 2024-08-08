@@ -1,0 +1,11 @@
+[package]
+name = "rusty_plantuml_encoder"
+version = "0.0.1"
+edition = "2021"
+description = "A package for encoding and compressing text for plantuml diagram"
+license = "MIT"
+repository = "https://github.com/ansonhkg/rusty_plantuml_encoder"
+
+[dependencies]
+flate2 = "1.0"
+encoding_rs = "0.8"
