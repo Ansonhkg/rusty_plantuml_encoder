@@ -8,13 +8,13 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-plantuml_encoder = "0.1.0"
+plantuml_encoder = "0.0.3"
 ```
 
 ## Usage
 
 ```rust
-use plantuml_encoder::encodep;
+use rusty_plantuml_encoder::encodep;
 
 fn main() {
     let diagram = "@startuml
